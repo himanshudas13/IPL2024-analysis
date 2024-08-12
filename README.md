@@ -6,7 +6,7 @@ Ever wondered who the star performers of IPL 2024 are? Which players consistentl
 
 What’s Inside?
 Scraping the Field
-Using our trusty web scraper, we fetch the latest and greatest IPL 2024 stats. Expect runs, wickets, sixes, fours, strike rates, economy rates, and perhaps even the number of times a player winks at the camera! (Okay, maybe not that last one, but you get the gist).
+Using our custom web scraper, we fetch the latest and greatest IPL 2024 stats. Expect runs, wickets, sixes, fours, strike rates, economy rates, and perhaps even the number of times a player winks at the camera! (Okay, maybe not that last one, but you get the gist).
 
 Data Cleanup: The Pre-Match Warm-Up
 Data can be messy – like a cricket ball after a rainy day. But fret not! With the magic of Pandas, we’ll clean, transform, and prepare our data for the main event. NaNs? Out! Inconsistent formats? Fixed! The data will be as pristine as a freshly mowed pitch.
